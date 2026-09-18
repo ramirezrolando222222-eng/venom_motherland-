@@ -1,0 +1,22 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "network_stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate-env": "node backend/scripts/validate-env.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "framer-motion": "^12.42.2",
+    "lucide-react": "^1.26.0",
+    "socket.io": "^4.8.3"
+  }
+}

@@ -1,0 +1,9 @@
+# Sovereign Security Protections
+.lion-registry.json
+*.js
+!*.enc.js
+!lion-engine.js
+!init-sovereign-repo.sh
+!lion-git-sync.sh
+.env
+node_modules/
