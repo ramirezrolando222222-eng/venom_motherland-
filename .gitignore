@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 __pycache__/
 *.py[cod]
 .venv/
 venv/
 .env
 .env.*
+=======
+# Sovereign Security Protections
+.lion-registry.json
+*.js
+!*.enc.js
+!lion-engine.js
+!init-sovereign-repo.sh
+!lion-git-sync.sh
+.env
+node_modules/
+>>>>>>> 4e34f3a5cc4b1cc56d23268f8a022583686206e9
